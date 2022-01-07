@@ -1,9 +1,9 @@
 <h2>Lossless Dataset Compression</h2><br>
 <br>
-<p>Sviluppo del metodo di compressione lossless dataset proposto da Borowsky, Marion e P. Calmon. <br>
-Abbiamo sviluppato il metodo di compressione lossless dataset proposto da Borowsky, Marion e P. Calmon e testato sul dataset MNIST.<br>
-Lo script python è eseguibile da linea comando previa installazione della dipendenze.<br>
-Di seguito la composizione della root del progetto:</p><br>
+<p>Development of the lossless dataset compression method proposed by Borowsky, Marion and P. Calmon. <br>
+We developed the lossless dataset compression method proposed by Borowsky, Marion and P. Calmon and tested on the MNIST dataset.<br>
+The python script is executable from the command line after installing the dependencies.<br>
+Below is the composition of the root of the project:</p><br>
 <br>
 root:/<br>
 |_code: DatasetCompressor.py<br>
